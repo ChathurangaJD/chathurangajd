@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about cloud base task
 - 📫 How to reach me: dhanushkamax@gmail.com
 - 😄 Pronouns: him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: The Coding Future is Bright
