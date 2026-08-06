@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on cloud projects, open-source tools, and innovative web apps
 - 🤔 I’m looking for help with optimizing cloud costs and advanced AWS security practices
 - 💬 Ask me about cloud base task
-- 📫 How to reach me: dhanushkamax@gmail.com
+- 📫 How to reach me: chathurangad.it@gmail.com
 - 😄 Pronouns: him
 - ⚡ Fun fact: The Coding Future is Bright
